@@ -18,3 +18,6 @@ Personal mini website
 
 ## coding aids / add-ons
 - Chromo package to preview hex colours [here](https://github.com/Vertagon-Softworks/Chromo)
+
+[site_link](https://antoniosfiala.github.io/personal_site/)
+
