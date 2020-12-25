@@ -40,27 +40,33 @@
   --light: #f8f9fa;
   --dark: var(--gray-dark); /*Not used for any obvious elements*/
 
-  /*Button colours
-  rgba(26, 188, 156, 0.5);
-  rgba(60, 198, 171, 0.5);
-  border: #148f77;
-  border-color: #12846e;
-  button link hover #117964
-  */
-
+  /*Button original colours*/
   --dark_teal_1: #159a80;
   --dark_teal_2: #148f77; /*Fills outlines of some buttons AND backgrounds*/
   --dark_teal_3: #12846e;
   --dark_teal_4: #117964;
   --dark_teal_5_rgb: rgba(26, 188, 156, 0.5);
   --dark_teal_6_rgb: rgba(60, 198, 171, 0.5);
+  --dark_teal_7_rgb: rgba(26, 188, 156, 0.9);/*used for portfolio icons overlay*/
 
-  --button_dark_1: var(--dark_teal_1); /*Backgrounds*/
-  --button_dark_2: var(--dark_teal_2); /*Outlines and backgrounds*/
-  --button_dark_3: var(--dark_teal_3); /*Shadows and outlines*/
-  --link_hover: var(--dark_teal_4); /*Hover over links, originally dark_teal_4 */
-  --button_dark_4_rgb: var(--dark_teal_5_rgb);
-  --button_dark_4_rgb: var(--dark_teal_6_rgb);
+
+  /*Back-up declaration*/
+
+  /*--button_dark_1: var(--dark_teal_1); /*Backgrounds*/
+  /*--button_dark_2: var(--dark_teal_2); /*Outlines and backgrounds*/
+  /*--button_dark_3: var(--dark_teal_3); /*Shadows and outlines*/
+  /*--link_hover: var(--dark_teal_4); /*Hover over links, originally dark_teal_4 */
+  /*--button_dark_4_rgb: var(--dark_teal_5_rgb); /*rgb apparentyly used more for shadows than anything*/
+  /*--button_dark_5_rgb: var(--dark_teal_6_rgb); /*rgb apparentyly used more for shadows than anything*/
+  /*--portfolio_overlay: var(--dark_teal_7_rgb); /*used for portfolio icons overlay*/
+
+  --button_dark_1: var(--af_dark_orange); /*Backgrounds*/
+  --button_dark_2: var(--af_dark_orange); /*Outlines and backgrounds*/
+  --button_dark_3: var(--af_dark_orange); /*Shadows and outlines*/
+  --link_hover: var(--af_dark_orange); /*Hover over links, originally dark_teal_4 */
+  --button_dark_4_rgb: rgba(251,139,36,0.5);/*var(--af_dark_orange); /*rgb apparentyly used more for shadows than anything*/
+  --button_dark_5_rgb: rgba(227,100,20,0.5);/*var(--af_dark_orange); /*rgb apparentyly used more for shadows than anything*/
+  --portfolio_overlay: rgba(251,139,36,0.9);/*var(--af_light_orange); /*used for portfolio icons overlay*/
 
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
@@ -2486,7 +2492,7 @@ fieldset:disabled a.btn {
   color: var(--white);
   background-color: var(--button_dark_1);
   border-color: var(--button_dark_2);
-  box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
+  box-shadow: 0 0 0 0.2rem var(--button_dark_5_rgb);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: var(--white);
@@ -2499,7 +2505,7 @@ fieldset:disabled a.btn {
   border-color: var(--button_dark_3);
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
+  box-shadow: 0 0 0 0.2rem var(--button_dark_5_rgb);
 }
 
 .btn-secondary {
@@ -10188,7 +10194,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: var(--portfolio_overlay);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
