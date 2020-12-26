@@ -12,6 +12,13 @@ including this site.
 You can find more on GitHub :)
 
 ### Gaming
+The strategy game genre is my solo go to. I grew up with the Command & Conquer and Total War series along-side RPGs.
+<br>Some of my favourites:
+<br>Rome: Total War, Divinity Original Sin 2, World of Warcraft
+<br>Currently playing:
+<br>Among Us
+
+
 
 ### photography
 Together with playing music, photography is a hobby that helps me relax. Alternating between my Canon EOS550d and iPhone 12 Pro,
