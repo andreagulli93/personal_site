@@ -30,7 +30,7 @@ The interaction of the various components and code-bases of the project.
 - Light Blue: #86BBD8
 - Pacific Blue: #004F62
 
-<dl font-color: "#004F62"> Test colour </dl>
+<dl font-color: "#004F62"> <dd font-color: "#004F62">Test colour</dd> </dl>
 
 
 **References**
