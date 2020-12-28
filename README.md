@@ -20,9 +20,7 @@ The interaction of the various components and code-bases of the project.
 - [Google Chrome (MacOS)](https://www.google.com/intl/en_uk/chrome/) and Safari (Mac & iOS) for desktop and mobile testing
 - Generate colour palette using [coolors.co](https://coolors.co/)
 
-
-----
-----
+---
 
 **Colour-scheme**
 - Dark orange: #E36414
