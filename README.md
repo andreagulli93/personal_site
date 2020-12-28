@@ -6,6 +6,7 @@ Making a little website, a digital business card, that can connect people to var
 - Amend only what is required to make it 'my own'
 - Generalise code to allow for easy extendability in the future
 - Create detailed documentation here on GitHub
+- Practice using GitHub
 
 ## Mini architecture
 The interaction of the various components and code-bases of the project.
@@ -18,6 +19,10 @@ The interaction of the various components and code-bases of the project.
   - [Chromo package](https://atom.io/packages/chromo-color-previews) to preview hex colours [GitHub here](https://github.com/Vertagon-Softworks/Chromo)
 - [Google Chrome (MacOS)](https://www.google.com/intl/en_uk/chrome/) and Safari (Mac & iOS) for desktop and mobile testing
 - Generate colour palette using [coolors.co](https://coolors.co/)
+
+
+----
+----
 
 **Colour-scheme**
 - Dark orange: #E36414
