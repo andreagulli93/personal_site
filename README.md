@@ -39,3 +39,26 @@ The interaction of the various components and code-bases of the project.
 ---
 
 ## Documentation
+**A. HTML**
+  - Removed code from template that was not required
+  - Amended content (text, titles, images (found in 'D. Assets'))
+  - Added different line break with icons
+  - Amended hover over box behaviour
+  - Added extra favicon lines of code
+
+**B. JavaScript**
+  - Removed references to unnecessary libraries for contact form
+  - Aside from that, code left as is
+
+**C. CSS**
+  - Spent majority of my time here
+  - Generalised references with variables, particularly for colours
+  - Added some new classes for custom text over the interest boxes
+
+**D. Assets**
+  - Created a profile picture
+  - Downloaded and prepared assets (mainly in .svg) for line breaks
+  - Downloaded and created icons for areas of interest using the defined colour pallet only
+  - Colours to show in markdown documentation
+  - Saved favicon elements here
+  - Work_in_progress folder contains the Pixelmator files
