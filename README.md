@@ -30,9 +30,6 @@ The interaction of the various components and code-bases of the project.
 - Light Blue: #86BBD8
 - Pacific Blue: #004F62
 
-<dl font-color: "#004F62"> <dd font-color: "#004F62">Test colour</dd> </dl>
-<p style="color:blue">This is another paragraph.</p>
-
 **References**
 1. _'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence_
 2. _Base colour based on iPhone 12 Pro, 'Pacific Blue' hex codes found [here](https://colorswall.com/palette/27294/)_
