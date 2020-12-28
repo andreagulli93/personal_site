@@ -436,9 +436,10 @@ h6, .h6 {
 /* Bottom left text */
 .square_bottom_centre {
   position: absolute;
-  bottom: 2%;
+  bottom: 3.5%;
   left: 50%;
   transform: translate(-50%, 0);
+  color: var(--secondary_grey)
 }
 
 .lead {

@@ -21,3 +21,5 @@ Personal mini website
 - Chromo package to preview hex colours [here](https://github.com/Vertagon-Softworks/Chromo)
 
 [site_link](https://antoniosfiala.github.io/personal_site/)
+
+Centering fixed position text in a div: https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div
