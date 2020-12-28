@@ -28,7 +28,7 @@ The interaction of the various components and code-bases of the project.
 - Light Orange: #FB8B24
 - Light Green: #A8C256
 - Light Blue: #86BBD8
-- Pacific Blue: #004F62
+- Pacific Blue: #004F62 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Dark_orange.png "Pacific blue")
 
 **References**
 1. _'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence_
