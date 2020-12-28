@@ -1,4 +1,4 @@
-# Project: Personal site
+# Project: Personal site [site link](https://antoniosfiala.github.io/personal_site/)
 Making a little website, a digital business card, that can connect people to various social networks where people can find more information or get in touch.
 
 ## Approach & purpose of project
@@ -23,22 +23,13 @@ The interaction of the various components and code-bases of the project.
 - 'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence
 - Base colour based on iPhone 12 Pro, 'Pacific Blue' hex codes found [here](https://colorswall.com/palette/27294/)
 - social icons using existing code and adding more using raw data from: https://fontawesome.com/icons?d=gallery
+- Colours in GitHub markdown [stackoverflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
+- Centering fixed position text in a div: https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div
 
-## colour-scheme
+
+### colour-scheme
 1. Dark orange: #E36414
 2. Light Orange: #FB8B24
 3. Light Green: #A8C256
 4. Light Blue: #86BBD8
-5. Pacific Blue: #004F62 <span style="color:#004F62"> Pacific Blue #004F62 </span>
-
-{color:#FF0000}text{color} will show a red colour)
-
-
-
-
-## coding aids / add-ons
-- Chromo package to preview hex colours [here](https://github.com/Vertagon-Softworks/Chromo)
-
-[site_link](https://antoniosfiala.github.io/personal_site/)
-
-Centering fixed position text in a div: https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div
+5. Pacific Blue: #004F62
