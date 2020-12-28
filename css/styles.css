@@ -432,6 +432,15 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+/*AF addition for text on top of squares (from W3 https://www.w3schools.com/howto/howto_css_image_text.asp) */
+/* Bottom left text */
+.square_bottom_centre {
+  position: absolute;
+  bottom: 2%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
