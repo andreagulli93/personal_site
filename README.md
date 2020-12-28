@@ -7,6 +7,7 @@ Making a little website, a digital business card, that can connect people to var
 - Generalise code to allow for easy extendability in the future
 - Create detailed documentation here on GitHub
 - Practice using GitHub
+- More documentation [here](#Documentation)
 
 ## Mini architecture
 The interaction of the various components and code-bases of the project.
@@ -22,7 +23,6 @@ The interaction of the various components and code-bases of the project.
 - GitHub markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ---
-
 **Colour-scheme**
 - Dark orange: #E36414 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Dark_orange.png "Dark orange")
 - Light Orange: #FB8B24 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Light_orange.png "Light orange")
@@ -36,5 +36,6 @@ The interaction of the various components and code-bases of the project.
 3. _Social network icons using existing code and adding more using raw data at [fontawesome](https://fontawesome.com/icons?d=gallery)_
 4. _Colours in GitHub markdown [stackoverflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)_
 5. _Centering fixed position text in a div [stackoverflow](https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div)_
-
 ---
+
+## Documentation
