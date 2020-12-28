@@ -1,5 +1,5 @@
 # Project: Personal site [(link)](https://antoniosfiala.github.io/personal_site/)
-Making a little website, a digital business card, that can connect people to various social networks where people can find more information or get in touch.
+Making a little website, a kind of digital business card, that can connect people to various social networks where people can find more information or get in touch.
 
 ## Approach & purpose of project
 - Use open-source templates and resources
