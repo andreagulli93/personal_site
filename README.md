@@ -19,16 +19,16 @@ The interaction of the various components and code-bases of the project.
 - [Google Chrome (MacOS)](https://www.google.com/intl/en_uk/chrome/) and Safari (Mac & iOS) for desktop and mobile testing
 - Generate colour palette using [coolors.co](https://coolors.co/)
 
-### Colour-scheme
-1. Dark orange: #E36414
-2. Light Orange: #FB8B24
-3. Light Green: #A8C256
-4. Light Blue: #86BBD8
-5. Pacific Blue: #004F62
+**Colour-scheme**
+- Dark orange: #E36414
+- Light Orange: #FB8B24
+- Light Green: #A8C256
+- Light Blue: #86BBD8
+- Pacific Blue: #004F62
 
-### References
-- _'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence_
-- _Base colour based on iPhone 12 Pro, 'Pacific Blue' hex codes found [here](https://colorswall.com/palette/27294/)_
-- _Social network icons using existing code and adding more using raw data at [fontawesome](https://fontawesome.com/icons?d=gallery)_
-- _Colours in GitHub markdown [stackoverflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)_
-- _Centering fixed position text in a div [stackoverflow](https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div)_
+**References**
+1. _'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence_
+2. _Base colour based on iPhone 12 Pro, 'Pacific Blue' hex codes found [here](https://colorswall.com/palette/27294/)_
+3. _Social network icons using existing code and adding more using raw data at [fontawesome](https://fontawesome.com/icons?d=gallery)_
+4. _Colours in GitHub markdown [stackoverflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)_
+5. _Centering fixed position text in a div [stackoverflow](https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div)_
