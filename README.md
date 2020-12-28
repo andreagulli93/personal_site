@@ -11,8 +11,8 @@ Making a little website, a digital business card, that can connect people to var
 
 ## Mini architecture
 The interaction of the various components and code-bases of the project.
-[Image link](https://github.com/antoniosfiala/personal_site/blob/new_code/Site_architecture.svg)
 
+![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/Site_architecture.svg "Diagram")
 
 ## List of tools
 - [The Noun Project](https://thenounproject.com) for icons used in the rectangles and the line dividers
