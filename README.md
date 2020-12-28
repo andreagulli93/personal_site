@@ -10,7 +10,7 @@ Making a little website, a digital business card, that can connect people to var
 - More documentation [here](#Documentation)
 
 ## Mini architecture
-The interaction of the various components and code-bases of the project.
+The interaction of the various components and code-bases of the project. See [documentation](#Documentation) for changes in each component.
 
 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/Site_architecture.svg "Diagram")
 
