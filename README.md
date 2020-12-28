@@ -24,11 +24,11 @@ The interaction of the various components and code-bases of the project.
 ---
 
 **Colour-scheme**
-- Dark orange: #E36414
-- Light Orange: #FB8B24
-- Light Green: #A8C256
-- Light Blue: #86BBD8
-- Pacific Blue: #004F62 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Dark_orange.png "Pacific blue")
+- Dark orange: #E36414 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Dark_orange.png "Dark orange")
+- Light Orange: #FB8B24 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Light_orange.png "Light orange")
+- Light Green: #A8C256 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Green.png "Light green")
+- Light Blue: #86BBD8 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Light_blue.png "Light blue")
+- Pacific Blue: #004F62 ![alt text](https://github.com/antoniosfiala/personal_site/blob/new_code/assets/img/Colours/Pacific_blue.png "Pacific blue")
 
 **References**
 1. _'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence_
