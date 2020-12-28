@@ -1,9 +1,9 @@
-# Project: Personal site [(link)](https://antoniosfiala.github.io/personal_site/)
-Making a little website, a kind of digital business card, that can connect people to various social networks where people can find more information or get in touch.
+# Project: Personal site [(access site here)](https://antoniosfiala.github.io/personal_site/)
+Purpose of this project is to make a little website, a type of digital business card, that can connect people to various social networks where people can find more information or get in touch.
 
-## Approach & purpose of project
+## Approach & purpose of the project
 - Use open-source templates and resources
-- Amend only what is required to make it 'my own'
+- Only amend what is required to make it 'my own'
 - Generalise code to allow for easy extendability in the future
 - Create detailed documentation here on GitHub
 - Practice using GitHub
@@ -41,14 +41,14 @@ The interaction of the various components and code-bases of the project. See [do
 
 ## Documentation
 **A. HTML**
-  - Removed code from template that was not required
+  - Removed code from the template that was not required
   - Amended content (text, titles, images (found in 'D. Assets'))
   - Added different line break with icons
   - Amended hover over box behaviour
   - Added extra favicon lines of code
 
 **B. JavaScript**
-  - Removed references to unnecessary libraries for contact form
+  - Removed references to unnecessary libraries for the contact form
   - Aside from that, code left as is
 
 **C. CSS**
