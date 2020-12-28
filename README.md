@@ -19,6 +19,7 @@ The interaction of the various components and code-bases of the project.
   - [Chromo package](https://atom.io/packages/chromo-color-previews) to preview hex colours [GitHub here](https://github.com/Vertagon-Softworks/Chromo)
 - [Google Chrome (MacOS)](https://www.google.com/intl/en_uk/chrome/) and Safari (Mac & iOS) for desktop and mobile testing
 - Generate colour palette using [coolors.co](https://coolors.co/)
+- GitHub markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ---
 
@@ -28,6 +29,9 @@ The interaction of the various components and code-bases of the project.
 - Light Green: #A8C256
 - Light Blue: #86BBD8
 - Pacific Blue: #004F62
+
+<dl font-color: "#004F62"> Test colour </dl>
+
 
 **References**
 1. _'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence_
