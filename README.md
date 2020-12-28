@@ -1,4 +1,4 @@
-# Project: Personal site [site link](https://antoniosfiala.github.io/personal_site/)
+# Project: Personal site [(link)](https://antoniosfiala.github.io/personal_site/)
 Making a little website, a digital business card, that can connect people to various social networks where people can find more information or get in touch.
 
 ## Approach & purpose of project
@@ -12,24 +12,23 @@ The interaction of the various components and code-bases of the project.
 [Image link]
 
 ## List of tools
-- The Noun Project for icons used in the rectangles and the line dividers
-- Pixelmator Pro
-- Atom.io text editor
-  - Chromo package to preview hex colours [here](https://github.com/Vertagon-Softworks/Chromo)
-- Google Chrome (Mac) and Safari (Mac & iOS) for testing
+- [The Noun Project](https://thenounproject.com) for icons used in the rectangles and the line dividers
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) availabe on [MacOS Appstore](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12)
+- [Atom.io](https://atom.io) text editor
+  - [Chromo package](https://atom.io/packages/chromo-color-previews) to preview hex colours [GitHub here](https://github.com/Vertagon-Softworks/Chromo)
+- [Google Chrome (MacOS)](https://www.google.com/intl/en_uk/chrome/) and Safari (Mac & iOS) for desktop and mobile testing
 - Generate colour palette using [coolors.co](https://coolors.co/)
 
-## References
-- 'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence
-- Base colour based on iPhone 12 Pro, 'Pacific Blue' hex codes found [here](https://colorswall.com/palette/27294/)
-- social icons using existing code and adding more using raw data from: https://fontawesome.com/icons?d=gallery
-- Colours in GitHub markdown [stackoverflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
-- Centering fixed position text in a div: https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div
-
-
-### colour-scheme
+### Colour-scheme
 1. Dark orange: #E36414
 2. Light Orange: #FB8B24
 3. Light Green: #A8C256
 4. Light Blue: #86BBD8
 5. Pacific Blue: #004F62
+
+### References
+- _'Freelance' bootstrap theme [GitHub repository](https://github.com/startbootstrap/startbootstrap-freelancer) under MIT licence_
+- _Base colour based on iPhone 12 Pro, 'Pacific Blue' hex codes found [here](https://colorswall.com/palette/27294/)_
+- _Social network icons using existing code and adding more using raw data at [fontawesome](https://fontawesome.com/icons?d=gallery)_
+- _Colours in GitHub markdown [stackoverflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)_
+- _Centering fixed position text in a div [stackoverflow](https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div)_
