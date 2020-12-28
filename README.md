@@ -31,7 +31,7 @@ The interaction of the various components and code-bases of the project.
 4. Light Blue: #86BBD8
 5. Pacific Blue: #004F62 <span style="color:#004F62"> Pacific Blue #004F62 </span>
 
-
+{color:#FF0000}text{color} will show a red colour)
 
 
 
