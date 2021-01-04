@@ -37,6 +37,7 @@ The interaction of the various components and code-bases of the project. See [do
 3. _Social network icons using existing code and adding more using raw data at [fontawesome](https://fontawesome.com/icons?d=gallery)_
 4. _Colours in GitHub markdown [stackoverflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)_
 5. _Centering fixed position text in a div [stackoverflow](https://stackoverflow.com/questions/2861247/center-aligning-a-fixed-position-div)_
+6. _Adding perspective to favicon logo [Pixelmator community](https://www.pixelmator.com/community/viewtopic.php?f=10&t=15154)_
 ---
 
 ## Documentation
