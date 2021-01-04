@@ -22,6 +22,7 @@ The interaction of the various components and code-bases of the project. See [do
 - [Google Chrome (MacOS)](https://www.google.com/intl/en_uk/chrome/) and Safari (Mac & iOS) for desktop and mobile testing
 - Generate colour palette using [coolors.co](https://coolors.co/)
 - GitHub markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Favicon Generator](https://realfavicongenerator.net) used to create various sizes and code for site favicon 
 
 ---
 **Colour-scheme**
